@@ -1,0 +1,1 @@
+A simple a.i assistant with only 60 lines of code , ask it anything , and it will give you answer.
